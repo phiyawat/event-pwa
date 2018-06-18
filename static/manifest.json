@@ -1,0 +1,20 @@
+{
+  "name": "flight-pwa",
+  "short_name": "flight-pwa",
+  "icons": [
+    {
+      "src": "/static/img/icons/index.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/static/img/icons/index.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "theme_color": "#2c3e50"
+}
