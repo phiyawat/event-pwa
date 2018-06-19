@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Flight from '@/components/Flight'
-import DetailFlight from '@/components/DetailFlight'
-import Login from '@/components/Login'
+import Flight from '@/page/Flight'
+import DetailFlight from '@/page/DetailFlight'
+import Login from '@/page/Login'
 
 Vue.use(Router)
 
